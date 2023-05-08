@@ -9,6 +9,6 @@ Front end developer<br>React , Redux, Next.Js<br>Type Script<br>Strong knowledge
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cauanzinhooo&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
