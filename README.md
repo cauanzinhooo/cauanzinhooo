@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front end developer<br>React , Redux, Next.Js<br>Type Script<br>Strong knowledge with HTML CSS and JS<br><br>
+Web Developer<br>React,Next.Js,Nest,Prisma<br>Type Script<br>Strong knowledge with HTML CSS and JS<br><br>
 
 
 # 💻 Tech Stack:
