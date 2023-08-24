@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Developer<br>React,Next.Js,Nest,Prisma<br>Type Script<br>Strong knowledge with HTML CSS and JS<br><br>
+Web Developer<br>React,Next.Js,Nest,Prisma<br>Type Script<br>Strong knowledge with Jest and Storybook <br><br>
 
 
 # 💻 Tech Stack:
