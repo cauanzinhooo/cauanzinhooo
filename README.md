@@ -1,6 +1,8 @@
 Hello
 I am Cauã Gomes Marçal and i do code
 
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=cauanzinhooo&show_icons=true&theme=gotham)
+
 
 💻Stacks
 [![Next.js](https://img.shields.io/badge/Next.js-^12.0.0-blue?logo=next.js)](https://nextjs.org/)
