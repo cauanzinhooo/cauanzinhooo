@@ -1,5 +1,5 @@
 Hello
-I am Cauã Gomes Marçal and i do code
+I am Cauã Gomes  and i do code
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=cauanzinhooo&show_icons=true&theme=gotham)
 
