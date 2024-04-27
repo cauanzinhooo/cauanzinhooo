@@ -6,7 +6,6 @@ much solid and pattern
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cauanzinhooo&theme=maroongold&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cauanzinhooo&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Logo da OpenAI](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OpenAI_Logo%2C_2017.svg/220px-OpenAI_Logo%2C_2017.svg.png)](https://openai.com)
 
 
 # 💻 Tech Stack:
