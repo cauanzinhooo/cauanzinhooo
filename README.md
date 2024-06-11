@@ -1,17 +1,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
+<h3 align="left">🛠 Tech Stacks</h3>
 
 ###
 
-<h3 align="center">🛠 Tech Stacks</h3>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -30,7 +24,7 @@
 </div>
 
 ###
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=cauanzinhooo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
