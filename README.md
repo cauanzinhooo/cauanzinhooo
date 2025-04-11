@@ -1,3 +1,11 @@
+<h1 align="center">Hi There 👋</h1>
+
+<h3 align="center">I'm a Brazillian Full Stack developer working with Next JS, React, Node.</h3>
+
+
+
+<em>- 🔭 I’m currently working on **Intentus Digital**</em>
+
 
 ###
 
