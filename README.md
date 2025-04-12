@@ -5,8 +5,14 @@
 
 
 <em>- 🔭 I’m currently working on **Intentus Digital**</em>
+###
+
 <em>- ⚙️ I use daily: NextJS, NestJS, AWS, S3, Docker, RabbitMq</em<>
+###
+
 <em>- 🌱 I’m currently learning **Java/Spring**</em>
+###
+
 <em>- 💬 Ask me about **React, NextJS, Node, Java, AWS and its ecosystem **</em>
 
 
