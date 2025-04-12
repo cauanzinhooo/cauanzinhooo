@@ -19,24 +19,25 @@
 ###
 ### 🛠 Tech Stack
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div align="left">
 
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React" />
-  <img src="https://cdn.simpleicons.org/node.js/339933" height="30" alt="Node.js" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="Next.js" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="NestJS" />
-  <img src="https://svgmix.com/files/jotai.svg" height="30" alt="Jotai" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" />
-  <img src="https://svgmix.com/files/aws.svg" height="30" alt="AWS" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="Linux" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="30" alt="Prisma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeorm/typeorm-original.svg" height="30" alt="TypeORM" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React" style="margin-right: 20px; margin-bottom: 20px;" />
+  <img src="https://cdn.simpleicons.org/node.js/339933" height="30" alt="Node.js" style="margin-right: 20px; margin-bottom: 20px;" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="Next.js" style="margin-right: 20px; margin-bottom: 20px;" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="NestJS" style="margin-right: 20px; margin-bottom: 20px;" />
+  <img src="https://svgmix.com/files/jotai.svg" height="30" alt="Jotai" style="margin-right: 20px; margin-bottom: 20px;" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="TailwindCSS" style="margin-right: 20px; margin-bottom: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" style="margin-right: 20px; margin-bottom: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" style="margin-right: 20px; margin-bottom: 20px;" />
+  <img src="https://svgmix.com/files/aws.svg" height="30" alt="AWS" style="margin-right: 20px; margin-bottom: 20px;" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" style="margin-right: 20px; margin-bottom: 20px;" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="Linux" style="margin-right: 20px; margin-bottom: 20px;" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="TypeScript" style="margin-right: 20px; margin-bottom: 20px;" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="JavaScript" style="margin-right: 20px; margin-bottom: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="30" alt="Prisma" style="margin-right: 20px; margin-bottom: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeorm/typeorm-original.svg" height="30" alt="TypeORM" style="margin-right: 20px; margin-bottom: 20px;" />
 
 </div>
+
 
 
