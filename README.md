@@ -13,7 +13,7 @@
 <em>- 🌱 I’m currently learning **Java/Spring**</em>
 ###
 
-<em>- 💬 Ask me about **React, NextJS, Node, Java, AWS and its ecosystem **</em>
+<em>- 💬 Ask me about **React, NextJS, Node, Java, AWS and its ecosystem**</em>
 
 
 
