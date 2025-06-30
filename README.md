@@ -7,13 +7,13 @@
 <em>- 🔭 I’m currently working on **Intentus Digital**</em>
 ###
 
-<em>- ⚙️ I use daily: NextJS, Jotai, NestJS,  AWS, S3, Docker, RabbitMq</em>
+<em>- ⚙️ I use daily: Express, NestJS, AWS, Docker, NextJS</em>
 ###
 
 <em>- 🌱 I’m currently learning **Java/Spring**</em>
 ###
 
-<em>- 💬 Ask me about **React, NextJS, Node, Java, AWS and its ecosystem**</em>
+<em>- 💬 Ask me about **React, NextJS, Node, Java, NestJS and its ecosystem**</em>
 
 
 ###
