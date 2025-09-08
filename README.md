@@ -1,13 +1,13 @@
 <h1 align="center">Hi There 👋</h1>
 
-<h3 align="center">I'm a Back end  developer working Node, Nestjs and Golang</h3>
+<h3 align="center">I'm a Full Stacker developer working Node, Nestjs</h3>
 
 
 
 <em>- 🔭 I’m currently working on **Intentus Digital**</em>
 ###
 
-<em>- ⚙️ I use daily: NestJS, Golang, NextJS</em>
+<em>- ⚙️ I use daily: NestJS, React and NextJS</em>
 ###
 
 <em>- 🌱 I’m currently learning **Golang**</em>
