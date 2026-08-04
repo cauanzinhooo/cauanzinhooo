@@ -1,10 +1,10 @@
 <h1 align="center">Hi There 👋</h1>
 
-<h3 align="center">I'm a Full Stacker developer working Node, Nestjs</h3>
+<h3 align="center">I'm a Full Stacker developer working Node, Nestjs, C#, ASP.NET</h3>
 
 
 
-<em>- 🔭 I’m currently working on **Intentus Digital**</em>
+<em>- 🔭 I’m currently working on **LiberaAI**</em>
 ###
 
 <em>- ⚙️ I use daily: NestJS, React and NextJS</em>
@@ -13,7 +13,7 @@
 <em>- 🌱 I’m currently learning **Golang**</em>
 ###
 
-<em>- 💬 Ask me about **React, NextJS, Node, Golang, NestJS and its ecosystem**</em>
+<em>- 💬 Ask me about **React, NextJS, Node, C#, ASP.NET, NestJS and its ecosystem**</em>
 
 
 ###
