@@ -1,10 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0117,100:7c3aed&height=180&section=header" width="100%" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=560&lines=full+stack+dev;C%23+%2F+ASP.NET+%C2%B7+Node+%2F+NestJS+%C2%B7+React;infra+em+AWS%2C+Kubernetes+e+Terraform" alt="typing" />
-
-<br><br>
+<br>
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-2b0a3d?style=for-the-badge&logo=dotnet&logoColor=a855f7)
 ![C#](https://img.shields.io/badge/C%23-2b0a3d?style=for-the-badge&logo=dotnet&logoColor=a855f7)
@@ -23,5 +19,3 @@
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" width="180" alt="gengar" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,100:0d0117&height=120&section=footer" width="100%" />
