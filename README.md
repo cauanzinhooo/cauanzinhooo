@@ -14,8 +14,5 @@
 ![Docker](https://img.shields.io/badge/Docker-1a0630?style=for-the-badge&logo=docker&logoColor=a855f7)
 ![Linux](https://img.shields.io/badge/Linux-1a0630?style=for-the-badge&logo=linux&logoColor=a855f7)
 
-<br>
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" width="180" alt="gengar" />
 
 </div>
